@@ -20,9 +20,6 @@ Develop a robotic prototype capable of detecting surrounding obstacles using ult
 ## Working Pipeline
 Sensor → Distance Measurement → Coordinate Conversion → Map Generation
 
-## Prototype
-![Robot Prototype](images/robot.jpg)
-
 ## Mapping Output
 ![Map Output](output_3dmap.jpeg)
 
