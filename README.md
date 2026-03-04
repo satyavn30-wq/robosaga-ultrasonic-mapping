@@ -24,7 +24,7 @@ Sensor → Distance Measurement → Coordinate Conversion → Map Generation
 ![Robot Prototype](images/robot.jpg)
 
 ## Mapping Output
-![Map Output](images/map.png)
+![Map Output](output_3dmap.jpeg)
 
 ## Source Code
 The Arduino code for the prototype is available in this repository.
